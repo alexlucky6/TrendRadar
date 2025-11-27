@@ -1,13 +1,6 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
 华为
 鸿蒙
-HarmonyOS
-任正非
+赛力斯
 
 比亚迪
 王传福
@@ -23,31 +16,8 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
+DeepSeek
+梁文锋
 
 特斯拉
 马斯克
@@ -69,14 +39,6 @@ deepmind
 chatgpt
 openai
 sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
@@ -104,10 +66,3 @@ ai
 雅鲁藏布江
 
 新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
